@@ -1,0 +1,23 @@
+.container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-top: var(--padding-lg);
+	padding-bottom: var(--padding-lg);
+	padding-left: var(--padding-md);
+	padding-right: var(--padding-md);
+
+	margin: 0 auto;
+	max-width: 1100px;
+}
+
+.logo {
+	font-size: 30px;
+	font-weight: 100;
+}
+
+.wrapper {
+	display: flex;
+	align-items: center;
+	gap: var(--padding-sm);
+}

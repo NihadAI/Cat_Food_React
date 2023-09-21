@@ -1,0 +1,128 @@
+[
+	{
+		"name": "food",
+		"price": 400,
+		"src": "images/food.svg",
+		"vendor": 1,
+		"color": "FBAD36",
+		"blob": "images/blobs/Blob-01.svg",
+		"desc": "Keep your feline friend happy and healthy with our premium cat food. Made with the finest ingredients to satisfy even the pickiest eaters."
+	},
+	{
+		"name": "can food",
+		"price": 300,
+		"src": "images/can_food.svg",
+		"vendor": 2,
+		"color": "FBAD36",
+		"blob": "images/blobs/Blob-02.svg",
+		"desc": "Treat your cat to a delicious meal in a convenient can. Packed with nutrients and flavors that will make their taste buds purr in delight."
+	},
+	{
+		"name": "dry food",
+		"price": 800,
+		"src": "images/dry_food.svg",
+		"vendor": 4,
+		"color": "FBAD36",
+		"blob": "images/blobs/Blob-04.svg",
+		"desc": "For cats who prefer a crunchier feast, our dry food is the purr-fect choice. Nutrient-rich and delicious, it'll keep your kitty energized and content."
+	},
+	{
+		"name": "bed",
+		"price": 700,
+		"src": "images/bed.svg",
+		"vendor": 9,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-09.svg",
+		"desc": "Give your beloved kitty a cozy retreat with our luxurious cat bed. Soft and plush, it's the ultimate spot for catnaps and relaxation."
+	},
+	{
+		"name": "travel bag",
+		"price": 1000,
+		"src": "images/travel_bag.svg",
+		"vendor": 10,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-10.svg",
+		"desc": "Planning a getaway with your furry companion? Our stylish travel bag ensures your cat travels in comfort and style."
+	},
+	{
+		"name": "leash",
+		"price": 200,
+		"src": "images/leash.svg",
+		"vendor": 12,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-12.svg",
+		"desc": "Take your cat for a stroll with confidence using our durable and comfortable leash. It allows them to explore the outdoors safely."
+	},
+	{
+		"name": "collar",
+		"price": 150,
+		"src": "images/collar.svg",
+		"vendor": 8,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-08.svg",
+		"desc": "Make your cat the trendsetter of the neighborhood with our fashionable collar. Designed for both style and comfort, it's a must-have accessory."
+	},
+	{
+		"name": "t-shirt",
+		"price": 750,
+		"src": "images/t-shirt.svg",
+		"vendor": 3,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-03.svg",
+		"desc": "Let your cat strut their stuff in our adorable cat t-shirt. It's not just cute; it also protects their fur during playtime."
+	},
+	{
+		"name": "bath",
+		"price": 350,
+		"src": "images/bath.svg",
+		"vendor": 5,
+		"color": "231E54",
+		"blob": "images/blobs/Blob-05.svg",
+		"desc": "Make bath time a breeze with our gentle cat shampoo. Your feline companion will emerge from their bath looking and smelling fabulous."
+	},
+	{
+		"name": "litter box",
+		"price": 500,
+		"src": "images/litter_box.svg",
+		"vendor": 6,
+		"color": "231E54",
+		"blob": "images/blobs/Blob-06.svg",
+		"desc": "Keep your home clean and odor-free with our spacious litter box. Designed with your cat's comfort and privacy in mind."
+	},
+	{
+		"name": "litter sand",
+		"price": 450,
+		"src": "images/litter_sand.svg",
+		"vendor": 7,
+		"color": "231E54",
+		"blob": "images/blobs/Blob-07.svg",
+		"desc": "Our premium litter sand clumps tight and neutralizes odors, providing a fresh and hygienic litter box environment."
+	},
+	{
+		"name": "feather toy",
+		"price": 150,
+		"src": "images/feather_toy.svg",
+		"vendor": 11,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-11.svg",
+		"desc": "Watch your cat's instincts come alive as they chase and pounce on our interactive feather toy. Hours of fun and exercise guaranteed."
+	},
+	{
+		"name": "cat tree",
+		"price": 1100,
+		"src": "images/cat_tree.svg",
+		"vendor": 13,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-13.svg",
+		"desc": "Spoil your adventurous cat with our deluxe cat tree. Climbing, scratching, and lounging - it's an all-in-one paradise for your feline friend."
+	},
+	{
+		"name": "catnip",
+		"price": 300,
+		"src": "images/catnip.svg",
+		"vendor": 14,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-14.svg",
+		"desc": "Treat your cat to a euphoric experience with our high-quality catnip. Sprinkle it on toys or scratchers for endless entertainment."
+	}
+]

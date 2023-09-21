@@ -1,0 +1,83 @@
+.article {
+	display: grid;
+	grid-template-columns: 50px repeat(4, 1fr);
+	justify-items: baseline;
+	align-items: center;
+	column-gap: var(--padding-lg);
+	transition: background-color 1s;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.fav {
+}
+
+.image-wrapper {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+
+.blob {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 0;
+	opacity: 0.7;
+	max-height: 50px;
+}
+.img {
+	position: relative;
+	width: 50px;
+	margin: 0 auto;
+}
+.price,
+.vendor,
+.name {
+	font-size: 24px;
+}
+.buttons {
+	display: flex;
+	align-items: center;
+	justify-self: stretch;
+	justify-content: space-evenly;
+	transition: opacity 0.3s;
+}
+.cart {
+}
+.icon {
+	position: relative;
+	border: 0;
+	background-color: transparent;
+	height: fit-content;
+}
+.icon::after {
+	content: '';
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	height: 125%;
+	width: 125%;
+	/* border-radius: 50%; */
+	background-color: var(--svg-fill-color);
+	opacity: 0;
+	transition: opacity 0.3s;
+}
+.icon:hover:after,
+.icon:focus:after {
+	opacity: 0.6;
+}
+.icon > svg {
+	display: block;
+	position: relative;
+	z-index: 1;
+}
+.icon:hover > svg {
+	fill: white;
+}

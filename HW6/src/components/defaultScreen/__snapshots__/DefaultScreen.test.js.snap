@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Smoke test should render 1`] = `
+<DocumentFragment>
+  <p
+    class="text"
+  >
+    Test Screen Text
+  </p>
+  <a
+    class="link"
+    href="/"
+  >
+    Return to Home page ⬅️
+  </a>
+</DocumentFragment>
+`;

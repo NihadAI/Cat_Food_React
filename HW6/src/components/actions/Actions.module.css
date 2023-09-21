@@ -1,0 +1,21 @@
+.actions {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 10px;
+}
+
+.actions button {
+	padding: 4px 12px;
+	background-color: transparent;
+	border: 1px solid black;
+	border-radius: 4px;
+	font-size: 1.3em;
+	color: inherit;
+	/* text-transform: capitalize; */
+}
+
+.button:hover,
+.button:focus {
+	background-color: #bbb;
+}

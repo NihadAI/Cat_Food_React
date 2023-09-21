@@ -1,0 +1,114 @@
+[
+	{
+		"name": "food",
+		"price": 400,
+		"src": "images/food.svg",
+		"vendor": 1,
+		"color": "FBAD36",
+		"blob": "images/blobs/Blob-01.svg"
+	},
+	{
+		"name": "can food",
+		"price": 300,
+		"src": "images/can_food.svg",
+		"vendor": 2,
+		"color": "FBAD36",
+		"blob": "images/blobs/Blob-02.svg"
+	},
+	{
+		"name": "dry food",
+		"price": 800,
+		"src": "images/dry_food.svg",
+		"vendor": 4,
+		"color": "FBAD36",
+		"blob": "images/blobs/Blob-04.svg"
+	},
+	{
+		"name": "bed",
+		"price": 700,
+		"src": "images/bed.svg",
+		"vendor": 9,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-09.svg"
+	},
+	{
+		"name": "travel bag",
+		"price": 1000,
+		"src": "images/travel_bag.svg",
+		"vendor": 10,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-10.svg"
+	},
+	{
+		"name": "leash",
+		"price": 200,
+		"src": "images/leash.svg",
+		"vendor": 12,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-12.svg"
+	},
+	{
+		"name": "collar",
+		"price": 150,
+		"src": "images/collar.svg",
+		"vendor": 8,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-08.svg"
+	},
+	{
+		"name": "t-shirt",
+		"price": 750,
+		"src": "images/t-shirt.svg",
+		"vendor": 3,
+		"color": "B2AB73",
+		"blob": "images/blobs/Blob-03.svg"
+	},
+	{
+		"name": "bath",
+		"price": 350,
+		"src": "images/bath.svg",
+		"vendor": 5,
+		"color": "231E54",
+		"blob": "images/blobs/Blob-05.svg"
+	},
+	{
+		"name": "litter box",
+		"price": 500,
+		"src": "images/litter_box.svg",
+		"vendor": 6,
+		"color": "231E54",
+		"blob": "images/blobs/Blob-06.svg"
+	},
+	{
+		"name": "litter sand",
+		"price": 450,
+		"src": "images/litter_sand.svg",
+		"vendor": 7,
+		"color": "231E54",
+		"blob": "images/blobs/Blob-07.svg"
+	},
+	{
+		"name": "feather toy",
+		"price": 150,
+		"src": "images/feather_toy.svg",
+		"vendor": 11,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-11.svg"
+	},
+	{
+		"name": "cat tree",
+		"price": 1100,
+		"src": "images/cat_tree.svg",
+		"vendor": 13,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-13.svg"
+	},
+	{
+		"name": "catnip",
+		"price": 300,
+		"src": "images/catnip.svg",
+		"vendor": 14,
+		"color": "E95B47",
+		"blob": "images/blobs/Blob-14.svg"
+	}
+]

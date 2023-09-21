@@ -1,0 +1,34 @@
+.list__card-view {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: var(--padding-md);
+}
+
+.list__table-view {
+	display: grid;
+	grid-template-columns: 1fr;
+	max-width: 70%;
+	margin: 0 auto;
+	border: var(--padding-xs) solid var(--main-color);
+	border-radius: var(--border-radius);
+	overflow: hidden;
+}
+
+.item__table-view {
+	padding: var(--padding-sm);
+}
+.item__table-view:nth-child(even) {
+	background-color: #fff;
+}
+.item__table-view:not(:last-child) {
+	border-bottom: var(--padding-xs) solid var(--main-color);
+}
+
+.column-names {
+	display: grid;
+	grid-template-columns: 50px repeat(4, 1fr);
+	justify-items: center;
+	align-items: center;
+	column-gap: var(--padding-lg);
+	font-size: 20px;
+}

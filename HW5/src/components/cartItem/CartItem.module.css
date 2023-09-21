@@ -1,0 +1,52 @@
+.article {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 20px;
+}
+.info {
+}
+
+.actions {
+	display: flex;
+	gap: 22px;
+	align-self: center;
+	justify-self: center;
+}
+
+.image {
+	border-radius: var(--border-radius);
+	border: 4px solid black;
+}
+
+.title {
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.name {
+	font-size: 28px;
+	font-weight: bolder;
+}
+
+.text {
+	font-size: 22px;
+}
+
+.button {
+	background-color: transparent;
+	border-radius: var(--border-radius);
+	padding: var(--padding-sm);
+	border: none;
+	cursor: pointer;
+	transition: all 0.3s;
+}
+
+.button:focus,
+.button:hover {
+	background-color: black;
+}
+
+.button:hover > svg,
+.button:focus > svg {
+	fill: var(--bg-color);
+}

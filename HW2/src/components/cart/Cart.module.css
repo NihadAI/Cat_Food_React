@@ -1,0 +1,32 @@
+.cart {
+	position: relative;
+	cursor: pointer;
+	padding: var(--padding-sm);
+	border-radius: var(--border-radius);
+	font-size: 24px;
+}
+
+.counter {
+	position: absolute;
+	right: -10px;
+	top: 50%;
+	transform: translateY(-50%);
+	color: white;
+	margin-top: -10px;
+	background-color: black;
+	border-radius: 100%;
+	padding: 2px 0 4px;
+	min-width: 19px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 14px;
+	line-height: 1;
+	transition: all 0.3s;
+}
+
+.cart:hover .counter,
+.cart:focus .counter {
+	color: black;
+	background-color: white;
+}

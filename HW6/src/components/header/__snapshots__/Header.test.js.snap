@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Smoke test should render 1`] = `
+<DocumentFragment>
+  <header
+    class="header"
+  >
+    <div
+      class="container"
+    >
+      <a
+        class="logo"
+        href="/"
+      >
+        CatShop
+      </a>
+      <div
+        class="wrapper"
+      >
+        <a
+          class=""
+          href="/cart"
+        >
+          <div
+            class="cart"
+          >
+            Cart 
+            <span
+              class="counter"
+            >
+              0
+            </span>
+          </div>
+        </a>
+        <a
+          class=""
+          href="/favourites"
+        >
+          <div
+            class="fav"
+          >
+            Favourites 
+            <span
+              class="counter"
+            >
+              0
+            </span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </header>
+</DocumentFragment>
+`;
